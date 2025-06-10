@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: fadaa2235dfe6ee4faa7552af621e6cb
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2100000: Column_4
+    2100002: Table_2.001
+    2100004: Frame_1.001
+    2100006: Table_6.002
+    2100008: Coverage_5
+    2100010: Air_Duct_Mesh
+    2100012: Air_Duct_2
+    2100014: Air_Duct_3
+    2100016: Air_Duct_1
+    2100018: Structure_5
+    2100020: Column_Steel
+    2100022: Coverage_1
+    2100024: Window_2
+    2100026: Glass_2
+    2100028: Structure_2.001
+    2100030: Coverage_3
+    2100032: Door_Frame_2
+    2100034: Glass_Door_2
+    2100036: Platform_Slab_2
+    2100038: Column_2
+    2100040: Structure_1
+    2100042: Air_Conditioner
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Shop_6
+    6400000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Air_Conditioner
+    second: {fileID: 2100000, guid: 763bb3766553f1148a9a53789e6c49aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Air_Duct_1
+    second: {fileID: 2100000, guid: 2b8fd46ab6c94114db3e14fa9430b078, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Air_Duct_2
+    second: {fileID: 2100000, guid: 8964601dbd16ff44ba764b9481ad9bbb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Air_Duct_3
+    second: {fileID: 2100000, guid: dba5db6ac07365f4192dd9f8c782b1a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Air_Duct_Mesh
+    second: {fileID: 2100000, guid: 50d3124dfa6ab7d46bad95af4e66cb20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Column_2
+    second: {fileID: 2100000, guid: ea0dd1d2b07137346b3b779358d5a870, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Column_4
+    second: {fileID: 2100000, guid: ea0dd1d2b07137346b3b779358d5a870, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Column_Steel
+    second: {fileID: 2100000, guid: 9ee8b6371f39226449d796b1b25edb06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Coverage_1
+    second: {fileID: 2100000, guid: 9488cf81276df13468ff20977947c0b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Coverage_3
+    second: {fileID: 2100000, guid: 248c5782fa6d49f41bf6ff2d6471ee8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Coverage_5
+    second: {fileID: 2100000, guid: 9953b00eb01d0ed4cb8d9b92f053017b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_Frame_2
+    second: {fileID: 2100000, guid: 91cb2df1d1b5fee42b22ccebcc3da963, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Frame_1.001
+    second: {fileID: 2100000, guid: ef211e5d5c196234b884e1b2bc60a143, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_2
+    second: {fileID: 2100000, guid: 8a5726417130d3f46af7f70761bbd7d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_Door_2
+    second: {fileID: 2100000, guid: 8a5726417130d3f46af7f70761bbd7d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Platform_Slab_2
+    second: {fileID: 2100000, guid: 5d48bdaca7a1044478f1d3efb6e37199, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Structure_1
+    second: {fileID: 2100000, guid: c659409b7b7d52f4592a570d0b01fa70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Structure_2.001
+    second: {fileID: 2100000, guid: 3e019ec1621df3a46922b92bfd84684e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Structure_5
+    second: {fileID: 2100000, guid: 6f825722bbae34f489a78045f7e79235, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Table_2.001
+    second: {fileID: 2100000, guid: bc57ef9cb1dd28b4a8e5ff1752a266f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Table_6.002
+    second: {fileID: 2100000, guid: a2837325063965b469936a4d53d442c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window_2
+    second: {fileID: 2100000, guid: 897171051746aee4288c431a1470d793, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

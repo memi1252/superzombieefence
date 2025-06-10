@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: a9158233e4cf2904caf35f352f4fac3d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2100000: Column_Square
+    2100002: Frame_2.001
+    2100004: Table_4.001
+    2100006: Structure_3.001
+    2100008: Table_7.001
+    2100010: Coverage_2
+    2100012: Column_4
+    2100014: Door_Frame_1
+    2100016: Glass_Door_1
+    2100018: Steel_Frame_2
+    2100020: Window_Horizontal
+    2100022: Glass_Horizontal
+    2100024: Window_1
+    2100026: Glass_1
+    2100028: Column_Steel
+    2100030: Parapet_Corner_2
+    2100032: Parapet_2_1
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Shop_5
+    6400000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Column_4
+    second: {fileID: 2100000, guid: a616c42dc9acc5743b7db7fe17d032dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Column_Square
+    second: {fileID: 2100000, guid: 4dd3bb86710aa9a47ae65e564699ab66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Column_Steel
+    second: {fileID: 2100000, guid: 9ee8b6371f39226449d796b1b25edb06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Coverage_2
+    second: {fileID: 2100000, guid: f0564a295f018334caac82a6f3728841, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_Frame_1
+    second: {fileID: 2100000, guid: d612cf8e5cf578149aff7dfd592bd927, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Frame_2.001
+    second: {fileID: 2100000, guid: 057e561cb9aba0b46b25b0438a5171f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_1
+    second: {fileID: 2100000, guid: 8a5726417130d3f46af7f70761bbd7d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_Door_1
+    second: {fileID: 2100000, guid: 8a5726417130d3f46af7f70761bbd7d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_Horizontal
+    second: {fileID: 2100000, guid: 8a5726417130d3f46af7f70761bbd7d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parapet_2_1
+    second: {fileID: 2100000, guid: fb349baf64d8cb84791be3c6293004b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parapet_Corner_2
+    second: {fileID: 2100000, guid: 2cce453d3c4d25b4fad0e49645e65e22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel_Frame_2
+    second: {fileID: 2100000, guid: 2290a63545275c24fac9063a66eb3a7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Structure_3.001
+    second: {fileID: 2100000, guid: be8fb92fbbd76dd4c95a5118109be125, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Table_4.001
+    second: {fileID: 2100000, guid: 02c9f6d2fdf4fc94880a2fa931ff1661, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Table_7.001
+    second: {fileID: 2100000, guid: 4e1e0bff043b70f4abdc9bbfcebc8cb4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window_1
+    second: {fileID: 2100000, guid: 65626368596be7f4fb4aa8cc09358c81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window_Horizontal
+    second: {fileID: 2100000, guid: 9006aa0dba0d44445893a6b341e8c2f4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
