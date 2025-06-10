@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LoginScene.unity
+    guid: 3c0ed7a85e09fd149b20c2fa4bdbddd1
+  - enabled: 1
+    path: Assets/Scenes/LoadingScene.unity
+    guid: bf7fb37dcfc96fc46823334bfb5a6134
+  - enabled: 1
+    path: Assets/Scenes/Abandoned_City.unity
+    guid: 7e66700b7cf6db64296febca0b4c574a
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 4cd41b8c0952dc24eb2bf51d70828544
+  m_configObjects: {}
